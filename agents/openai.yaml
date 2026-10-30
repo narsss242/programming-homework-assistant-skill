@@ -1,0 +1,6 @@
+interface:
+  display_name: 编程与数据分析作业助手
+  short_description: 按本次课程要求制作可运行源码、真实结果和汇报材料，保留原始数据与旧版本
+  default_prompt: 请用 $programming-homework-assistant-skill 处理我提供的材料，并按本次要求交付。
+policy:
+  allow_implicit_invocation: true
